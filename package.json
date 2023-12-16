@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "discord.js-selfbot-v13": "^2.15.0",
-    "opn": "^6.0.0"
-  }
-}
