@@ -1,6 +1,6 @@
 {
-    "token": "MTAwNzgyNzkyMTc3NzQ3NTc2NQ.GyxV7x.tKkwN0Ot8W4t3VYhwqDGXdnNMKY4Q6vvBL96Ys",
-    "channelIDs": ["1178841476868878416", "1178841545819033641"],
-    "message": "Made by Vuvi - Join this server for updates: https://discord.gg/E8uq8Nbt",
+    "token": "Ur Token",
+    "channelIDs": ["ChannelId1", "ChannelID2"],
+    "message": "Urmessage",
     "time": 10000
 }
